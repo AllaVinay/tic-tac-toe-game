@@ -1,0 +1,138 @@
+
+
+## ✅ Template 1: **Python (Console-based) Tic-Tac-Toe Game**
+
+````markdown
+# 🎮 Tic-Tac-Toe (Python Console Version)
+
+This is a simple two-player Tic-Tac-Toe game built in Python. The game runs in the terminal and allows two players to take turns placing X and O on a 3x3 board.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your system
+
+### Installation
+
+```bash
+git clone https://github.com/YOUR-USERNAME/tic-tac-toe.git
+cd tic-tac-toe
+python tic_tac_toe.py
+````
+
+## 🧩 How to Play
+
+* Player X starts the game.
+* Players take turns entering a number (1-9) to place their mark.
+* The game ends when one player wins or when the board is full (draw).
+
+## 📁 Project Structure
+
+```
+tic-tac-toe/
+├── tic_tac_toe.py
+└── README.md
+```
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+````
+
+---
+
+## ✅ Template 2: **Web Version (HTML, CSS, JS)**
+
+```markdown
+# 🌐 Tic-Tac-Toe (Web Version)
+
+A simple browser-based Tic-Tac-Toe game using HTML, CSS, and JavaScript. Playable on desktop or mobile browsers with a clean UI.
+
+## 🔗 Demo
+
+[Click here to play the game](https://your-live-demo-link.com) *(if hosted)*
+
+## 🚀 Getting Started
+
+### Installation
+
+```bash
+git clone https://github.com/YOUR-USERNAME/tic-tac-toe.git
+cd tic-tac-toe
+````
+
+Then open `index.html` in your browser.
+
+## 🧩 How to Play
+
+* Click on an empty cell to place your mark (X or O).
+* The first player to align 3 marks in a row wins.
+* If the grid fills without a winner, the game ends in a draw.
+
+## 📁 Project Structure
+
+```
+tic-tac-toe/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 📄 License
+
+Licensed under the MIT License.
+
+````
+
+---
+
+## ✅ Template 3: **Combined Python + Web Version**
+
+```markdown
+# 🎮 Tic-Tac-Toe Game
+
+A fun, simple implementation of Tic-Tac-Toe available in both:
+- Python (Console Version)
+- Web (HTML/CSS/JS Browser Version)
+
+## 📌 Features
+
+- Two-player mode
+- Win/draw detection
+- Clean UI (for web)
+- Replay option
+
+## 🚀 Getting Started
+
+### Option 1: Python (Console)
+
+```bash
+git clone https://github.com/YOUR-USERNAME/tic-tac-toe.git
+cd tic-tac-toe
+python tic_tac_toe.py
+````
+
+### Option 2: Web (Browser)
+
+Open `index.html` in your browser.
+
+## 📁 Project Structure
+
+```
+tic-tac-toe/
+├── tic_tac_toe.py        # Python console version
+├── index.html            # HTML entry point for web version
+├── style.css             # CSS styles
+├── script.js             # Game logic in JavaScript
+└── README.md
+```
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
+
