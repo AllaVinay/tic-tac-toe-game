@@ -1,16 +1,16 @@
 
-# 🧠 Tic-Tac-Toe Game
+#  Tic-Tac-Toe Game
 
 A simple implementation of the classic Tic-Tac-Toe (X's and O's) game for two players.
 
-## 📋 Features
+## Features
 
 * Two-player mode (Player X and Player O)
 * Simple and intuitive UI (console or graphical, depending on version)
 * Detects win, draw, and invalid moves
 * Play again option after each round
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ cd tic-tac-toe
 open index.html  # or run with live-server
 ```
 
-## 🕹️ How to Play
+##  How to Play
 
 1. The game board is a 3x3 grid.
 2. Player X starts first.
@@ -46,7 +46,7 @@ open index.html  # or run with live-server
 4. The first to align 3 of their symbols horizontally, vertically, or diagonally wins.
 5. If all 9 cells are filled with no winner, the game ends in a draw.
 
-## 🧩 Example
+##  Example
 
 ```
  X | O | X
@@ -58,7 +58,7 @@ open index.html  # or run with live-server
 
 Player X wins diagonally!
 
-## 📁 File Structure
+##  File Structure
 
 ```
 tic-tac-toe/
@@ -69,13 +69,13 @@ tic-tac-toe/
 └── README.md             # Project documentation
 ```
 
-## ✨ Future Improvements
+##  Future Improvements
 
 * Add AI opponent (minimax algorithm)
 * Save game history
 * Multiplayer over network
 * Responsive UI for mobile (web version)
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
